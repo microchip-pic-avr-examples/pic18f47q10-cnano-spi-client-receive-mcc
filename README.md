@@ -59,7 +59,7 @@ The following configurations must be made for this project:
 4. Select the *PIC18F47Q10 Curiosity Nano* in the *Hardware Tool* section of the project settings:
   - Right click on the project and click *Properties*;
   - Select the *PIC18F47Q10 Curiosity Nano* (click on the SN) in the *Hardware Tool* tab and then click *OK*:
-<br><img src="images/SPI-slave-receive-mcc-tool.PNG" width="600">
+<br><img src="images/SPI-client-receive-mcc-tool.PNG" width="600">
 
 
 5. Program the project to the board: right click on the project and click *Make and Program Device*.
